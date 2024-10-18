@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on making some projects and getting experience thye get a job for front-end dev.
 - 📫 How to reach me www.linkedin.com/in/thadishetty-sravan-sai or sravansai0907@gmail.com
 - 😄 Pronouns: He/Him/His
-- I created new github because it causes isues with servers if you want to check it out go to "https://github.com/sravan-sai"
+- I created new github because of causes isues with hosting websites if you want to check it out go to "https://github.com/sravan-sai"
 
 <!---
 sravansai-7/sravansai-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
